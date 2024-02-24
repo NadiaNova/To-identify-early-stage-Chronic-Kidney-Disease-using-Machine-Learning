@@ -1,5 +1,4 @@
 # To-identify-early-stage-Chronic-Kidney-Disease-using-Machine-Learning
-- To identify early-stage Chronic Kidney Disease using Machine Learning
 
 Chronic kidney disease (CKD) is a common, potentially fatal illness that has a significant effect on general health. For successful intervention and therapy, patients with early-stage CKD must be promptly identified. Using a publicly available CKD dataset, this study uses machine learning techniques to categorize people as having early-stage CKD or not.
 
